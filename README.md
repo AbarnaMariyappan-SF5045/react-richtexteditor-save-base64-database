@@ -45,4 +45,4 @@ Before running the project, ensure you have the following installed on your syst
    ```bash
     npm start
 
-
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
